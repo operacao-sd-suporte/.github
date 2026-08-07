@@ -1,4 +1,3 @@
-
 <img width="1768" height="880" alt="sd-suporte - banner" src="https://github.com/user-attachments/assets/dfc0e5cb-2443-4a89-92f6-ab79670c9cb4" />
 
 # 👋 Bem-vindo à Operação de Service Desk e Suporte
