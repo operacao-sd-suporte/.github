@@ -2,29 +2,34 @@
 
 # 👋 Bem-vindo à Operação de Service Desk e Suporte
 
-Esta organização reúne os repositórios, documentações, automações e iniciativas desenvolvidas para apoiar a evolução contínua da Operação de Service Desk e Suporte.
+Aqui centralizamos conhecimento, processos, automações e iniciativas que fortalecem a colaboração entre equipes, promovem a padronização, impulsionam a melhoria contínua e apoiam uma gestão cada vez mais eficiente.
 
-Nosso objetivo é promover uma gestão colaborativa do conhecimento, padronizar processos, incentivar a melhoria contínua e disponibilizar ferramentas que apoiem a qualidade dos serviços prestados.
-
----
-
-## 🚀 Projetos
-
-Atualmente fazem parte desta organização:
-
-- 📈 **Central de Melhoria Contínua**  
-  Registro, acompanhamento e implementação de oportunidades de melhoria.
+Acreditamos que tecnologia só gera valor quando está a serviço das pessoas. Por isso, todas as nossas iniciativas têm um propósito comum: evoluir continuamente a Operação, simplificar o trabalho das equipes e oferecer a melhor experiência possível aos nossos usuários.
 
 ---
 
 ## 🎯 Nossos princípios
 
+- 💙 Foco na experiência do usuário
 - 🤝 Colaboração
 - 📚 Compartilhamento de conhecimento
 - 🚀 Melhoria contínua
 - 📊 Gestão baseada em indicadores
-- 💙 Foco na experiência do usuário
 
+---
+
+## 🎯 Equipes envolvidas
+
+A evolução da Operação é resultado da atuação integrada de diferentes equipes, que compartilham conhecimento, desenvolvem soluções e colaboram continuamente para a melhoria dos serviços.
+
+- 🎧 Service Desk
+- 🖥️ Microinformática
+- 🌐 Redes
+- 💻 Sistemas
+- ⚡ Computação de Alto Desempenho (HPC)
+- 🛡️ Segurança da Informação
+- 📈 Gestão da Operação
+  
 ---
 
 > **Melhorar faz parte do nosso trabalho. Evoluir faz parte da nossa cultura.**
