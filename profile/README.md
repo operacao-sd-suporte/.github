@@ -37,7 +37,7 @@ A evolução da Operação é resultado da atuação integrada de diferentes equ
 | Repositório | Descrição |
 |-------------|-----------|
 | 🚀 **[Central de Melhoria Contínua](https://github.com/operacao-sd-suporte/central-melhoria-continua)** | Registro, avaliação, implementação e acompanhamento das oportunidades de melhoria da Operação. |
-| 🔗 **[Links Rápidos](https://github.com/operacao-sd-suporte/links-rapidos)** | Portal de acesso aos principais sistemas, ferramentas, documentações e recursos utilizados pela Operação. |
+| 🔗 **[Links Rápidos](https://github.com/operacao-sd-suporte/links-rapidos)** | Acesso aos principais sistemas, ferramentas, documentações e recursos utilizados pela Operação. |
   
 ---
 
