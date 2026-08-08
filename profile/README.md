@@ -32,7 +32,7 @@ A evolução da Operação é resultado da atuação integrada de diferentes equ
 
 ---
 
-## 📂 Repositórios da Organização
+## 📂 Repositórios
 
 | Repositório | Descrição |
 |-------------|-----------|
